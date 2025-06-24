@@ -1,5 +1,5 @@
 # OG Xbox MMU USB Adapter
-
+My very first PCB design excited to share it with the community!
 > Work in progress. PCB design still needs to be tested.  
 > A 3D-printable case for the controller port is also in development.
 
