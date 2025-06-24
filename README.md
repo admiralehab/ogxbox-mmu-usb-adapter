@@ -25,8 +25,8 @@ Main use cases include:
 
 ## License
 
-This project is licensed under the GNU General Public License version 3 (GPLv3).  
-You are free to use, modify, and distribute this design, provided that any modifications or derived works are also released under the same license. This ensures that improvements remain open and accessible to the community.
+This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S).  
+Modifications and derivatives must be shared under the same license. 
 
 ## Contact
 
